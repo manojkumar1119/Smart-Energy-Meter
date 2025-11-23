@@ -152,9 +152,6 @@ The IoT Energy Meter successfully:
 ![Power Graph](images/thingspeak_power.png)
 *Power consumption trends over time with peak detection*
 
-#### Energy & Cost Tracking
-![Energy Cost](images/thingspeak_energy_cost.png)
-*Cumulative energy consumption and cost calculation*
 
 ##  Future Enhancements
 
