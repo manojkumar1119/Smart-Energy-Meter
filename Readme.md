@@ -163,34 +163,24 @@ The IoT Energy Meter successfully:
 1. **Security Improvements**
    - Theft and tampering detection system
    - Encrypted data transmission
-   - Authentication mechanisms
 
 2. **Wireless Expansion**
    - GSM module integration for areas without WiFi
-   - LoRaWAN for long-range communication
-   - 5G compatibility for faster data transfer
 
 3. **Smart Automation**
-   - Automated device switching based on consumption
    - Load balancing and power optimization
    - AI-based consumption prediction
 
 4. **Advanced Analytics**
    - Data mining for consumption forecasting
-   - Anomaly detection and alerts
-   - Energy-saving recommendations
    - Predictive maintenance
 
 5. **Integration Capabilities**
    -  Smart home ecosystem integration
-   -  Integration with utility company systems
-   -  Direct billing integration
    -  Voice assistant support (Alexa, Google Home)
 
 6. **User Experience**
    -  Email/SMS notifications for high consumption
-   -  Customizable dashboard widgets
-   -  Scheduled reports generation
    -  Multi-user access with different permissions
 
 **WARNING**: This project involves working with high voltage AC power (230V). Please observe proper safety precautions:
