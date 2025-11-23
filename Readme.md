@@ -150,8 +150,6 @@ The IoT Energy Meter successfully:
 
 #### Power Consumption
 ![Power Graph](images/thingspeak_power.png)
-*Power consumption trends over time with peak detection*
-
 
 ##  Future Enhancements
 
